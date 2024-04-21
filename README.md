@@ -37,7 +37,7 @@ The training data used for the machine learning model is not included in this re
 
 ## Credits
 
-This project was developed by [PRIYANSHU TIWARI AND DHANAJAY KUMAR] as part of [Heart-disease Prediction].
+This project was developed by [PRIYANSHU TIWARI AND DHANANJAY KUMAR] as part of [Heart-disease Prediction].
 
 ## License
 
