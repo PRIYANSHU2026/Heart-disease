@@ -37,11 +37,11 @@ The training data used for the machine learning model is not included in this re
 
 ## Credits
 
-This project was developed by [Your Name] as part of [Project Name].
+This project was developed by [PRIYANSHU TIWARI AND DHANAJAY KUMAR] as part of [Heart-disease Prediction].
 
 ## License
 
-This project is licensed under the [Medical 1] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [SIR M VISVVESVARAYA INSTITUTE OF TECHNOLOGY] License - see the [LICENSE](LICENSE) file for details.
 
 ```
 
