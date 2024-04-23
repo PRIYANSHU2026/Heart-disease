@@ -45,4 +45,4 @@ This project is licensed under the [SIR M VISVVESVARAYA INSTITUTE OF TECHNOLOGY]
 
 ```
 
-Replace `[Your Name]`, `[Project Name]`, and `[License Name]` with your actual name, project name, and license name, respectively. You can choose an appropriate open-source license for your project.
+Replace `[PRIYANSHU TIWARI AND DHANANJAY KUMAR]`, `[Heart-disease Prediction]`, and `[License ]` with your actual name, project name, and license name, respectively. You can choose an appropriate open-source license for your project.
